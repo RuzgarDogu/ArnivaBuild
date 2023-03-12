@@ -1,0 +1,1 @@
+{"version":3,"file":"app.config-a561b127.js","sources":["../../../.svelte-kit/adapter-node/chunks/app.config.js"],"sourcesContent":["const APIURL = \"http://88.250.10.5:3102\";\nexport {\n  APIURL as A\n};\n"],"names":[],"mappings":"AAAK,MAAC,MAAM,GAAG;;;;"}
