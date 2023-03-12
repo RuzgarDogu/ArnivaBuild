@@ -1,1 +1,0 @@
-import{S as o,i as r,s as c,q as d,r as f,b as l,H as s,h as m}from"../chunks/index.bc7c65c9.js";function u(n){let t;return{c(){t=d("Home")},l(a){t=f(a,"Home")},m(a,e){l(a,t,e)},p:s,i:s,o:s,d(a){a&&m(t)}}}function x(n,t,a){let{data:e}=t;return n.$$set=i=>{"data"in i&&a(0,e=i.data)},[e]}class h extends o{constructor(t){super(),r(this,t,x,u,c,{data:0})}}export{h as default};
