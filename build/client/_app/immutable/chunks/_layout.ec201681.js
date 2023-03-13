@@ -1,0 +1,1 @@
+import{m as e,u as t}from"./monetize.363172c8.js";const o=async()=>({monetize:e,updatePageData:t}),r=Object.freeze(Object.defineProperty({__proto__:null,load:o},Symbol.toStringTag,{value:"Module"}));export{r as _,o as l};
